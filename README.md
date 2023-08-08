@@ -11,6 +11,7 @@ sql-level-up
 - 각 챕터별로 폴더를 만들어 관리
 - 1-9장은 01-09장으로 표시
 - 위 리포지토리를 참고해 주세요
+<br>
 
 
 - 폴더 안에는 세션에 사용된 발표 자료를 md 파일로 저장
@@ -39,5 +40,5 @@ sql-level-up
 
 | 챕터            | 발표 자료   |
 |---------|-----------------|
-| 1장. DBMS 아키텍처 | [유건](링크)|
+| 1장. DBMS 아키텍처 | [유건](https://github.com/Dev-Books-Master-Study/Study-Guide/blob/main/01%EC%9E%A5/1%EC%9E%A5_DBMS%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98_%EC%9C%A0%EA%B1%B4.md)|
 
