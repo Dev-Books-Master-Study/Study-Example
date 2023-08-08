@@ -34,16 +34,18 @@ sql-level-up
   - 진행 방식
   - 발표 자료 링크 (아래 예시 참고)
   - 벌금(option)
-  
-    
-- 예시
+
+
+## ❗️️README 예시
+
+---
+
 
 # 📚 SQL Level Up 스터디
 
 
 ## 📅 기간
 
----
 
 - 날짜 : 2023.08.14(월) ~ 2023.08.29(화)
 - 시간 : 매주 토요일 20:00 PM ~ 22:00 PM
@@ -53,7 +55,6 @@ sql-level-up
 
 ## 📜 진행 방식
 
----
 
 - 매주 스터디 시간에 담당한 챕터를 발표
 - 스터디 당일 00시까지 발표 자료를 Slack에 공유
@@ -63,7 +64,6 @@ sql-level-up
 
 ## 🙋🏻 참여자
 
----
 
 - 총 3명
   - [유건](https://github.com/youKeon)
@@ -74,7 +74,6 @@ sql-level-up
 
 ## 🗂️ 발표 자료
 
----
 | 챕터            | 발표자   | 발표 자료 |
 |---------|-----------------|-------|
 | 1장 | [유건](https://github.com/youKeon)| [DBMS 아키텍처](https://github.com/Dev-Books-Master-Study/Study-Guide/blob/main/01%EC%9E%A5/1%EC%9E%A5_DBMS%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98_%EC%9C%A0%EA%B1%B4.md)    |
